@@ -1,0 +1,30 @@
+<gtt>
+    <infobus id="1">
+        <stazione>FER</stazione>
+        <nomeMacchina>INFOBUS_FER_ATRIO_N</nomeMacchina>
+        <indirizzoIp>172.27.3.11</indirizzoIp>
+        <subnetMask>255.255.254.0</subnetMask>
+        <gateway>172.27.2.254</gateway>
+        <fermate>844,5001,884</fermate>
+
+    </infobus>
+
+    <infobus id="2">
+        <stazione>FER</stazione>
+        <nomeMacchina>INFOBUS_FER_ATRIO_S</nomeMacchina>
+        <indirizzoIp>172.27.3.12</indirizzoIp>
+        <subnetMask>255.255.254.0</subnetMask>
+        <gateway>172.27.2.254</gateway>
+        <fermate>2699</fermate>
+    </infobus>
+
+    <infobus id="3">
+        <stazione>PAR</stazione>
+        <nomeMacchina>INFOBUS_PAR_ATRIO_N</nomeMacchina>
+        <indirizzoIp>172.27.3.21</indirizzoIp>
+        <subnetMask>255.255.254.0</subnetMask>
+        <gateway>172.27.2.254</gateway>
+        <fermate>966</fermate>
+    </infobus>
+
+</gtt>
